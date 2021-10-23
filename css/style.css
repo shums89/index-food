@@ -149,6 +149,7 @@ body {
 .promo {
   display: flex;
   justify-content: space-between;
+  column-gap: 54px;
   padding-top: 50px;
   padding-bottom: 50px;
 }
